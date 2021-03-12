@@ -1,1 +1,5 @@
-As Iḿ Coding in Visual Studio Code and Iḿ not having any Bugfix, I have to Publish my thins Manually via git push -u origin master
+As Iḿ Coding in Visual Studio Code and Iḿ not having any Bugfix, I have to Publish my thins Manually via:
+UNDER THIS LINE
+^^^^^^^^^^^
+git push -u origin master
+^^^^^^^^^^^^^^^
