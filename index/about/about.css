@@ -38,3 +38,18 @@ li.body-menu-li{
 li.body-menu-li a{
     color: black;
 }
+.body-typer-div h2{
+    position: absolute;
+    top: 100px;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: rgb(255, 255, 255);
+}
+.body-typer-span{
+    color: #f7b731;
+}
