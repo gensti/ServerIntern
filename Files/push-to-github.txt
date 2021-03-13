@@ -3,3 +3,4 @@ UNDER THIS LINE
 ^^^^^^^^^^^
 git push -u origin master
 ^^^^^^^^^^^^^^^
+Ok, I found an way to Sync to Github without that Command.... I just have to OPEN my Eyes :)
