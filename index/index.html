@@ -16,7 +16,25 @@
         <li class="body-menu-li"><a href="about/about.html">About this Project</a></li>
     </ul>
 </nav>
-<h1 class="body-intro-h1">PLACEHOLDER for typed.js?!</h1>
+<div class="body-typer-div">
+    <h2>Welcome to <span class="body-typer-span"></span></h2>
+</div>
+<script src="../Files/typed.js"></script>
+<script>typed3 = new Typed(".body-typer-span", {
+    strings: [
+    "ServerIntern",
+    "your place for everything",
+    "your easy-acces place for usefull things"
+    ],
+    typeSpeed: 100,
+    backSpeed: 50,
+    backDelay: 3000,
+    smartBackspace: true, // this is a default
+    loop: true
+  });
+</script>
+
+
 </body>
 </html>
 

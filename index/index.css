@@ -47,3 +47,18 @@ div.body-title-div{
 h1.body-intro-h1{
     text-align: center;
 }
+.body-typer-div h2{
+    position: absolute;
+    top: 100px;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: rgb(255, 255, 255);
+}
+.body-typer-span{
+    color: #a55eea;
+}
