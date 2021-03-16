@@ -53,3 +53,28 @@ li.body-menu-li a{
 .body-typer-span{
     color: #f7b731;
 }
+.body-typer-madepossible-div h2{
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+    margin: 50;
+    padding: 0;
+    color: rgb(255, 255, 255);
+    border: auto;
+    box-sizing: border-box;
+}
+.body-typer-madepossible-span{
+    color: #31b8f7;
+    border: auto;
+}
+.body-madepossible-susi2005kg-h1{
+ color: #ffffff;
+ text-align: right;
+margin-top: 100px;
+border: auto;
+}.body-madepossible-susi2005kg-h1 a{
+    color: white;
+}
